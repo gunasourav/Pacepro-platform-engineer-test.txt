@@ -26,7 +26,7 @@ resource "aws_sns_topic" "alerts" {
 
 # EC2 web application server
 resource "aws_instance" "web" {
-  ami           = "YOUR-AMI-ID"
+    ami           = "ami-0b0b78dcacbab728f"
   instance_type = "t3.micro"
   tags = {
     Name = "web-app-server"
