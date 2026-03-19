@@ -24,6 +24,6 @@ Monitoring and auto-remediation solution for slow `/apidata` response times.
 
 ## Recordings
 
-- Part 1: ADD LINK HERE
-- Part 2: ADD LINK HERE
-- Part 3: ADD LINK HERE
+- Part 1: https://drive.google.com/drive/folders/1MJsgs-biPpD8dlDmMKLDPUyTzSUvhmcg?usp=drive_link
+- Part 2: https://drive.google.com/drive/folders/1MJsgs-biPpD8dlDmMKLDPUyTzSUvhmcg?usp=drive_link
+- Part 3: https://drive.google.com/drive/folders/1MJsgs-biPpD8dlDmMKLDPUyTzSUvhmcg?usp=drive_link
